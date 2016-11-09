@@ -1,3 +1,3 @@
 # hello-word
-Repositório com minha anotações
+Repositório com anotações de 
 Valmir Francisco Magalhães - Analista de Sistema da Prefeitura Municipal de Anápolis
